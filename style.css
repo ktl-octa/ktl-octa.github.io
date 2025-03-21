@@ -1,0 +1,87 @@
+ul li {
+    list-style: none;
+}
+
+a {
+    color: #00F4F4;
+}
+
+html {
+	background-color: #333333;
+}
+
+body {
+    background-image: url("image/octa_logo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 10%;
+    background-position: center;
+    margin-left: 1em;
+    margin-right: 1em;
+    padding: 10px 10px 20px 20px;
+    background-color: #666666;
+    color: #F4F4F4;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    background-color: rgba(33,33,33,0.8);
+}
+
+h1 {
+    text-align: center;
+    background-color: #222222;
+    color: #F4F4F4;
+    font-size: 2em;
+    margin: auto;
+    padding: 5px;
+}
+
+h2 {
+    color: greenyellow;
+    font-size: 2em;
+    margin: 5px auto;
+    padding: 5px auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+img.logo_header {
+    width: 60%;
+    height: 60%;
+}
+
+img.game_title {
+    width: 30%;
+    height: 30%;
+}
+
+img.game_screenshot {
+    width: 20%;
+    height: 20%;
+}
+
+img.logo_footer {
+    width: 5%;
+    height: 5%;
+}
+
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nocenter {
+    margin: 0 auto;
+    padding: 5px;
+    display: inline-block;
+    text-align: left;
+}
